@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is winterex and I'm a Junior Python delevoper (studing)</h2>
+<h2 align="left">Hi 👋! My name is winterex and I'm a Junior Python delevoper (studying)</h2>
 
 ###
 
